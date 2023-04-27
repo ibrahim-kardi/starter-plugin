@@ -1,0 +1,20 @@
+{
+    "name": "webtop/starter-plugin",
+    "description": "it is a starter plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Webtop\\StarterPlugin\\": "src/"
+        },
+        "files": ["src/functions.php"]
+    },
+    "authors": [
+        {
+            "name": "Mohammad Ibrahim",
+            "email": "ikardi04@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
