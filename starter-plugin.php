@@ -13,7 +13,6 @@
  * @package Starter
  */
 
-use TutorPro\Weglot\Weglot;
 
  if( !defined('ABSPATH')){
     exit;
