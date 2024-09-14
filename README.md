@@ -4,7 +4,7 @@ It is a starter plugin
 Development Setup:
 Follow the steps
 Configure <a href="#wpcs">WPCS</a> to write code that complies with the WordPress Coding Standard.
-Clone the repository git clone https://github.com/ibrahim-kardi/starter-plugin/.git.
+Clone the repository git clone https://github.com/ibrahim-kardi/starter-plugin.git.
 Checkout to dev brunch git checkout dev
 Make your own brunch git checkout -b your_brunch_name
 Go to vscode extension tab and install recommended extension.
