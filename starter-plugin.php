@@ -2,7 +2,7 @@
 /**
  * Plugin Name: starter plugin
  * Description: It is a starter 
- * Author: kardi
+ * Author: Ibrahim
  * Author URI: https://www.webtoptemplates.com
  * Version: 1.0.0
  * Text Domain: starter
